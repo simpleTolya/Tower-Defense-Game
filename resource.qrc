@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>resources/white ghost right.png</file>
+        <file>resources/white ghost left.png</file>
+        <file>resources/wall_ver.jpg</file>
+        <file>resources/wall_hor.jpg</file>
+        <file>resources/wall_ang4.jpg</file>
+        <file>resources/wall_ang3.jpg</file>
+        <file>resources/wall_ang2.jpg</file>
+        <file>resources/wall_ang1.jpg</file>
+        <file>resources/trava3.jpg</file>
+        <file>resources/trava2.jpg</file>
+        <file>resources/towerButton3.jpg</file>
+        <file>resources/towerButton2.jpg</file>
+        <file>resources/towerButton1.jpg</file>
+        <file>resources/tower3.jpg</file>
+        <file>resources/tower2.jpg</file>
+        <file>resources/tower1.jpg</file>
+        <file>resources/rock.png</file>
+        <file>resources/ice.png</file>
+        <file>resources/fire.png</file>
+        <file>resources/choosed_field.jpg</file>
+    </qresource>
+</RCC>
