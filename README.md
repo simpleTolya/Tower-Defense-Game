@@ -12,4 +12,4 @@ Your task is to prevent enemy units from reaching their target - the middle cell
 
 ## Game
 
-  <img src="./screens/game_screen.png" width="500" alt="game">
+  <img src="./screens/game_screen.png" width="800" alt="game">
