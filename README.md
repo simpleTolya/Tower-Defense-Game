@@ -1,5 +1,6 @@
 # Tower-Defense-Game
 A simple tower defense game in C++ with Qt framework.
+My first project in C++ with Qt.
 
 ## Technologies
 
